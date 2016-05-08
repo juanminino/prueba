@@ -1,3 +1,1 @@
-Thanks for downloading this theme!
-
-Get more freebies, collection from http://bootstraptaste.com
+Esto es sólo una prueba de las opciones de git y github.
